@@ -1,2 +1,2 @@
-# Bank_Networking_System_CPT
-Scalable and secure bank network design using Cisco Packet Tracer, featuring VLANs, OSPF, and robust failover mechanisms.
+Bank Networking System: Cisco Packet Tracer Project
+This repository showcases the design and implementation of a scalable, secure, and hierarchical network system for a bank's trading floor support center. Built using Cisco Packet Tracer, the project incorporates VLANs, OSPF routing, DHCP, and dual ISP connections to ensure robust performance and redundancy. It also implements key security measures like SSH and PAT to safeguard network resources. The network has been thoroughly tested for reliability, scalability, and efficiency, meeting the demands of modern banking operations. This project was developed as part of my 5th-semester CCN course under the supervision of Sir Irfan Younas Mughal.
